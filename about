@@ -1,0 +1,5 @@
+---
+layout: default
+title: That's me
+---
+	<h1>{{ page.title }}</h1>
